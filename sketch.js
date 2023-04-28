@@ -24,7 +24,7 @@ function setup() {
   game.start();
  
 }
-
+"changing sketch.js for github"
 //BP
 function draw() {
   background(backgroundImage);
